@@ -1,6 +1,0 @@
-Added:
-
-Removed:
-
-Fixed:
- - Update checker again
