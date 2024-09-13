@@ -1,0 +1,92 @@
+[light_sources]
+	water_sensitive_check = true
+	self = true
+	block_entities = true
+	entities = true
+
+			[light_sources.settings.entities.minecraft]
+				panda = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				pig = true
+				allay = true
+				skeleton = true
+				bat = true
+				experience_bottle = true
+				rabbit = true
+				silverfish = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				turtle = true
+				salmon = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				glow_squid = true
+				glow_item_frame = true
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				donkey = true
+				fox = true
+				slime = true
+				pillager = true
+				area_effect_cloud = true
+				zombified_piglin = true
+				blaze = true
+				piglin = true
+				cat = true
+				zombie = true
+				guardian = true
+				sheep = true
+				player = true
+				pufferfish = true
+				trident = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				tnt_minecart = true
+				elder_guardian = true
+				boat = true
+				strider = true
+				polar_bear = true
+				cave_spider = true
+				cod = true
+				witch = true
+				spider = true
+
+			[light_sources.settings.entities.betternether]
+				naga_projectile = true
+				hydrogen_jellyfish = true
+				firefly = true
+				skull = true
+				naga = true
+
+			[light_sources.settings.entities.adventurez]
+				deer = true
+				orc = true
+				blaze_guardian = true
+				blaze_guardian_shield = true
+				amethyst_golem = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				moobloom = true
+				rascal = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
