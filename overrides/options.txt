@@ -1,6 +1,6 @@
 version:3953
 toggleCrawl:false
-fullscreenMonitor:"0,0,2560,1440"
+fullscreenMonitor:"-1920,165,1920,1080"
 fullscreenMode:0
 preferredFullscreenMode:1
 ao:true

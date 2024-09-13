@@ -4,12 +4,12 @@
   "modpackName": "VentureBound",
   "modpackAuthor": "EnderSurge",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/EnderSurge/VentureBound/tree/main/",
+  "updateCheckerId": "https://raw.githubusercontent.com/EnderSurge/VentureBound-Updates/master/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
     "updateCheckerType": 2,
-    "retroWarning": false,
+    "retroWarning": true,
     "modpackMods": []
   }
 }
