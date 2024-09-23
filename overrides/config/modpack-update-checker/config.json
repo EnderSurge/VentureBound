@@ -1,6 +1,6 @@
 {
   "schemaVersion": 9,
-  "currentVersion": "1.1.2",
+  "currentVersion": "1.2.0",
   "modpackName": "VentureBound",
   "modpackAuthor": "EnderSurge",
   "modpackReleaseType": "stable",
@@ -9,7 +9,7 @@
     "bccEnabled": false,
     "expandButton": false,
     "updateCheckerType": 2,
-    "retroWarning": true,
+    "retroWarning": false,
     "modpackMods": []
   }
 }

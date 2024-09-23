@@ -47,9 +47,9 @@
 			"savesItems": true
 		},
 		"enableTierUpgrades": true,
-		// Enables equipping the backpack on right-click from the ground
+		// Enables equipping the backpack on right-click from the ground (Disabled if Trinkets/Accessories Integration is enabled)
 		"rightClickEquip": true,
-		// Enables unequipping the backpack on right-click on the ground with empty hand
+		// Enables unequipping the backpack on right-click on the ground with empty hand (Disabled if Trinkets/Accessories Integration is enabled)
 		"rightClickUnequip": false,
 		// Allows to use only equipped backpack
 		"allowOnlyEquippedBackpack": false,
@@ -70,7 +70,11 @@
 		// Places backpack at place where player died, replacing all blocks that are breakable and do not have inventory (backpackDeathPlace must be true in order to work)
 		"backpackForceDeathPlace": false,
 		"enableSleepingBagSpawnPoint": false,
-		/* If true, backpack can only be worn by placing it in accessories 'Back' slot
+		/* If true, backpack can only be worn by placing it in Trinkets 'Back' slot
+		   WARNING - Remember to TAKE OFF BACKPACK BEFORE enabling or disabling this integration!! - if not you'll lose your backpack
+		*/
+		"trinketsIntegration": true,
+		/* If true, backpack can only be worn by placing it in Accessories 'Back' slot
 		   WARNING - Remember to TAKE OFF BACKPACK BEFORE enabling or disabling this integration!! - if not you'll lose your backpack
 		*/
 		"accessoriesIntegration": true

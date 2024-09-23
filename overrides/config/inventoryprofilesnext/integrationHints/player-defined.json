@@ -45,5 +45,11 @@
     },
     "com.tom.storagemod.menu.StorageTerminalMenu": {
         "ignore": true
+    },
+    "com.tom.storagemod.screen.CraftingTerminalScreen": {
+        "ignore": true
+    },
+    "com.tom.storagemod.menu.CraftingTerminalMenu": {
+        "ignore": true
     }
 }
